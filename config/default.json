@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://abshir24:netgear24@devconnector-ktty2.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://abshir24:netgear24@devconnector-ktty2.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret-key"
 }
