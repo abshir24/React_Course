@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://abshir24:netgear24@devconnector-ktty2.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret-key"
+  "jwtSecret": "secret-key",
+  "githubClientId": "7d9235ebf8bbbd12709d",
+  "githubSecret": "347d6c4781254cdd196add5156c25ad517f5a875"
 }
